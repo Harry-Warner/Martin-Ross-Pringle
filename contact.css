@@ -275,6 +275,7 @@ body {
   border-radius: 5px;
   cursor: pointer;
   text-transform: uppercase;
+  display: block;
 }
 .btn:hover {
   box-shadow: 0 0 6px 0 #f08080;
